@@ -1,0 +1,9 @@
+[submodule "capsules/capsule"]
+	path = capsules/capsule
+	url = https://github.com/novavision-ai/package.git
+[submodule "components/component"]
+	path = components/component
+	url = https://github.com/novavision-ai/package.git
+[submodule "sdks/novavision"]
+	path = sdks/novavision
+	url = https://github.com/novavision-ai/sdk.git
